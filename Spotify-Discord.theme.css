@@ -2,7 +2,7 @@
  * @name Spotify Discord
  * @version 2.0.1
  * @description Combine Discord and Spotify into one with added hover effect for channels.
- * @author CapnKitten (modified by You)
+ * @author CapnKitten (modified by Lizandro and Teros)
  *
  * @website http://github.com/CapnKitten
  * @source https://github.com/CapnKitten/BetterDiscord/blob/master/Themes/Spotify-Discord/css/source.css
@@ -119,7 +119,7 @@
  }
  
 
-/* Hover Testing */
+/* Hover Mod */
 
 a:hover {
     color: var(--spotify-green) !important;
