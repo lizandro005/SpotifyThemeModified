@@ -70,7 +70,7 @@
   --default-animation: cubic-bezier(0.4,0,0.2,1);
   --default-time: 250ms;
   --text-brand: hsl(var(--accent-hsl));
-  --text-link: hsl(var(--accent-hsl));
+  --text-link: hsl(var(--link-color));
   --default-shadow: 0 16px 24px hsla(0,0%,0%,0.3), 0 6px 8px hsla(0,0%,0%,0.2);
   --code-font: Consolas,Andale Mono WT,Andale Mono,Lucida Console,Lucida Sans Typewriter,DejaVu Sans Mono,Bitstream Vera Sans Mono,Liberation Mono,Nimbus Mono L,Monaco,Courier New,Courier,monospace;
 }
